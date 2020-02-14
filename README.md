@@ -1,4 +1,4 @@
-# STM32 Serial Console Interface
+# STM32 Serial Interface
 
 A serial console interface and UART driver for the STM32 microcontroller lineup.
 
