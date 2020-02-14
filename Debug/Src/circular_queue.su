@@ -1,0 +1,6 @@
+circular_queue.c:16:16:cq_init	8	static
+circular_queue.c:36:6:cq_push	0	static
+circular_queue.c:56:6:cq_pull	0	static
+circular_queue.c:79:6:cq_clear	0	static
+circular_queue.c:89:5:cq_isempty	0	static
+circular_queue.c:98:5:cq_isfull	0	static

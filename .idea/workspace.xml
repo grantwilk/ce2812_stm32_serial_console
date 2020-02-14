@@ -1,0 +1,1569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ce2812_wk07_lab" targetName="ce2812_wk07_lab.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c690de8f-0fdb-458d-803d-e1fa8eda166d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="EmbeddedSvdWindowState">
+    <option name="columnWidths">
+      <list>
+        <option value="178" />
+        <option value="82" />
+        <option value="0" />
+      </list>
+    </option>
+    <option name="columnOrder">
+      <list>
+        <option value="Name" />
+        <option value="Value" />
+        <option value="Description" />
+      </list>
+    </option>
+    <option name="loadedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../resources/STM32F446x.svd" />
+      </list>
+    </option>
+    <option name="nodes">
+      <map>
+        <entry key="STM32F446x.svd" value="-E" />
+        <entry key="STM32F446x.svd|g:ADC" value="-E" />
+        <entry key="STM32F446x.svd|g:CAN" value="-E" />
+        <entry key="STM32F446x.svd|g:DMA" value="-E" />
+        <entry key="STM32F446x.svd|g:GPIO" value="-E" />
+        <entry key="STM32F446x.svd|g:I2C" value="-E" />
+        <entry key="STM32F446x.svd|g:SAI" value="-E" />
+        <entry key="STM32F446x.svd|g:SPI" value="-E" />
+        <entry key="STM32F446x.svd|g:TIM" value="-E" />
+        <entry key="STM32F446x.svd|g:USART" value="-E" />
+        <entry key="STM32F446x.svd|g:USB_OTG_FS" value="-E" />
+        <entry key="STM32F446x.svd|g:USB_OTG_HS" value="-E" />
+        <entry key="STM32F446x.svd|p:ADC1" value="-E" />
+        <entry key="STM32F446x.svd|p:ADC1|CR1" value="HE" />
+        <entry key="STM32F446x.svd|p:ADC1|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC1|DR" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC1|HTR" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC1|JDR1" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC1|JDR2" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC1|JDR3" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC1|JDR4" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC1|JOFR1" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC1|JOFR2" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC1|JOFR3" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC1|JOFR4" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC1|JSQR" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC1|LTR" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC1|SMPR1" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC1|SMPR2" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC1|SQR1" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC1|SQR2" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC1|SQR3" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC1|SR" value="HE" />
+        <entry key="STM32F446x.svd|p:ADC2" value="-E" />
+        <entry key="STM32F446x.svd|p:ADC2|CR1" value="HE" />
+        <entry key="STM32F446x.svd|p:ADC2|CR2" value="HE" />
+        <entry key="STM32F446x.svd|p:ADC2|DR" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC2|HTR" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC2|JDR1" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC2|JDR2" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC2|JDR3" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC2|JDR4" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC2|JOFR1" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC2|JOFR2" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC2|JOFR3" value="HE" />
+        <entry key="STM32F446x.svd|p:ADC2|JOFR4" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC2|JSQR" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC2|LTR" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC2|SMPR1" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC2|SMPR2" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC2|SQR1" value="HE" />
+        <entry key="STM32F446x.svd|p:ADC2|SQR2" value="HE" />
+        <entry key="STM32F446x.svd|p:ADC2|SQR3" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC2|SR" value="HE" />
+        <entry key="STM32F446x.svd|p:ADC3" value="-E" />
+        <entry key="STM32F446x.svd|p:ADC3|CR1" value="HE" />
+        <entry key="STM32F446x.svd|p:ADC3|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC3|DR" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC3|HTR" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC3|JDR1" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC3|JDR2" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC3|JDR3" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC3|JDR4" value="HE" />
+        <entry key="STM32F446x.svd|p:ADC3|JOFR1" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC3|JOFR2" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC3|JOFR3" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC3|JOFR4" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC3|JSQR" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC3|LTR" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC3|SMPR1" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC3|SMPR2" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC3|SQR1" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC3|SQR2" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC3|SQR3" value="HC" />
+        <entry key="STM32F446x.svd|p:ADC3|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1" value="-E" />
+        <entry key="STM32F446x.svd|p:CAN1|BTR" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|ESR" value="HE" />
+        <entry key="STM32F446x.svd|p:CAN1|F0R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F0R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F10R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F10R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F11R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F11R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F12R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F12R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F13R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F13R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F14R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F14R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F15R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F15R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F16R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F16R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F17R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F17R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F18R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F18R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F19R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F19R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F1R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F1R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F20R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F20R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F21R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F21R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F22R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F22R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F23R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F23R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F24R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F24R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F25R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F25R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F26R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F26R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F27R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F27R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F2R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F2R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F3R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F3R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F4R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F4R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F5R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F5R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F6R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F6R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F7R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F7R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F8R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F8R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F9R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|F9R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|FA1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|FFA1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|FM1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|FMR" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|FS1R" value="HE" />
+        <entry key="STM32F446x.svd|p:CAN1|IER" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|MCR" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|MSR" value="HE" />
+        <entry key="STM32F446x.svd|p:CAN1|RDH0R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|RDH1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|RDL0R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|RDL1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|RDT0R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|RDT1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|RF0R" value="HE" />
+        <entry key="STM32F446x.svd|p:CAN1|RF1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|RI0R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|RI1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|TDH0R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|TDH1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|TDH2R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|TDL0R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|TDL1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|TDL2R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|TDT0R" value="HE" />
+        <entry key="STM32F446x.svd|p:CAN1|TDT1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|TDT2R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|TI0R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|TI1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|TI2R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN1|TSR" value="HE" />
+        <entry key="STM32F446x.svd|p:CAN2" value="-E" />
+        <entry key="STM32F446x.svd|p:CAN2|BTR" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|ESR" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F0R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F0R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F10R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F10R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F11R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F11R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F12R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F12R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F13R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F13R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F14R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F14R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F15R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F15R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F16R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F16R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F17R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F17R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F18R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F18R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F19R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F19R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F1R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F1R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F20R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F20R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F21R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F21R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F22R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F22R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F23R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F23R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F24R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F24R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F25R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F25R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F26R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F26R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F27R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F27R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F2R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F2R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F3R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F3R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F4R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F4R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F5R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F5R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F6R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F6R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F7R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F7R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F8R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F8R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F9R1" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|F9R2" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|FA1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|FFA1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|FM1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|FMR" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|FS1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|IER" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|MCR" value="HE" />
+        <entry key="STM32F446x.svd|p:CAN2|MSR" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|RDH0R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|RDH1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|RDL0R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|RDL1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|RDT0R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|RDT1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|RF0R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|RF1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|RI0R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|RI1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|TDH0R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|TDH1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|TDH2R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|TDL0R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|TDL1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|TDL2R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|TDT0R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|TDT1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|TDT2R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|TI0R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|TI1R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|TI2R" value="HC" />
+        <entry key="STM32F446x.svd|p:CAN2|TSR" value="HC" />
+        <entry key="STM32F446x.svd|p:CEC" value="-E" />
+        <entry key="STM32F446x.svd|p:CEC|CFGR" value="HE" />
+        <entry key="STM32F446x.svd|p:CEC|CR" value="HE" />
+        <entry key="STM32F446x.svd|p:CEC|IER" value="HE" />
+        <entry key="STM32F446x.svd|p:CEC|ISR" value="HE" />
+        <entry key="STM32F446x.svd|p:CEC|RXDR" value="HC" />
+        <entry key="STM32F446x.svd|p:CEC|TXDR" value="HC" />
+        <entry key="STM32F446x.svd|p:CRC" value="-C" />
+        <entry key="STM32F446x.svd|p:CRC|CR" value="HC" />
+        <entry key="STM32F446x.svd|p:CRC|DR" value="HC" />
+        <entry key="STM32F446x.svd|p:CRC|IDR" value="HC" />
+        <entry key="STM32F446x.svd|p:C_ADC" value="-E" />
+        <entry key="STM32F446x.svd|p:C_ADC|CCR" value="HE" />
+        <entry key="STM32F446x.svd|p:C_ADC|CDR" value="HC" />
+        <entry key="STM32F446x.svd|p:C_ADC|CSR" value="HE" />
+        <entry key="STM32F446x.svd|p:DAC" value="-E" />
+        <entry key="STM32F446x.svd|p:DAC|CR" value="HC" />
+        <entry key="STM32F446x.svd|p:DAC|DHR12L1" value="HC" />
+        <entry key="STM32F446x.svd|p:DAC|DHR12L2" value="HC" />
+        <entry key="STM32F446x.svd|p:DAC|DHR12LD" value="HC" />
+        <entry key="STM32F446x.svd|p:DAC|DHR12R1" value="HC" />
+        <entry key="STM32F446x.svd|p:DAC|DHR12R2" value="HC" />
+        <entry key="STM32F446x.svd|p:DAC|DHR12RD" value="HC" />
+        <entry key="STM32F446x.svd|p:DAC|DHR8R1" value="HC" />
+        <entry key="STM32F446x.svd|p:DAC|DHR8R2" value="HC" />
+        <entry key="STM32F446x.svd|p:DAC|DHR8RD" value="HC" />
+        <entry key="STM32F446x.svd|p:DAC|DOR1" value="HC" />
+        <entry key="STM32F446x.svd|p:DAC|DOR2" value="HC" />
+        <entry key="STM32F446x.svd|p:DAC|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:DAC|SWTRIGR" value="HC" />
+        <entry key="STM32F446x.svd|p:DBG" value="-E" />
+        <entry key="STM32F446x.svd|p:DBG|DBGMCU_APB1_FZ" value="HC" />
+        <entry key="STM32F446x.svd|p:DBG|DBGMCU_APB2_FZ" value="HC" />
+        <entry key="STM32F446x.svd|p:DBG|DBGMCU_CR" value="HC" />
+        <entry key="STM32F446x.svd|p:DBG|DBGMCU_IDCODE" value="HC" />
+        <entry key="STM32F446x.svd|p:DCMI" value="-E" />
+        <entry key="STM32F446x.svd|p:DCMI|CR" value="HC" />
+        <entry key="STM32F446x.svd|p:DCMI|CWSIZE" value="HC" />
+        <entry key="STM32F446x.svd|p:DCMI|CWSTRT" value="HC" />
+        <entry key="STM32F446x.svd|p:DCMI|DR" value="HC" />
+        <entry key="STM32F446x.svd|p:DCMI|ESCR" value="HE" />
+        <entry key="STM32F446x.svd|p:DCMI|ESUR" value="HC" />
+        <entry key="STM32F446x.svd|p:DCMI|ICR" value="HC" />
+        <entry key="STM32F446x.svd|p:DCMI|IER" value="HC" />
+        <entry key="STM32F446x.svd|p:DCMI|MIS" value="HC" />
+        <entry key="STM32F446x.svd|p:DCMI|RIS" value="HC" />
+        <entry key="STM32F446x.svd|p:DCMI|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1" value="-E" />
+        <entry key="STM32F446x.svd|p:DMA1|HIFCR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|HISR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|LIFCR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|LISR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S0CR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S0FCR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S0M0AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S0M1AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S0NDTR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S0PAR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S1CR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S1FCR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S1M0AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S1M1AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S1NDTR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S1PAR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S2CR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S2FCR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S2M0AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S2M1AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S2NDTR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S2PAR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S3CR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S3FCR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S3M0AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S3M1AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S3NDTR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S3PAR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S4CR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S4FCR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S4M0AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S4M1AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S4NDTR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S4PAR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S5CR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S5FCR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S5M0AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S5M1AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S5NDTR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S5PAR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S6CR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S6FCR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S6M0AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S6M1AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S6NDTR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S6PAR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S7CR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S7FCR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S7M0AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S7M1AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S7NDTR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA1|S7PAR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2" value="-E" />
+        <entry key="STM32F446x.svd|p:DMA2|HIFCR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|HISR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|LIFCR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|LISR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S0CR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S0FCR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S0M0AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S0M1AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S0NDTR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S0PAR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S1CR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S1FCR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S1M0AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S1M1AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S1NDTR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S1PAR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S2CR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S2FCR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S2M0AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S2M1AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S2NDTR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S2PAR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S3CR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S3FCR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S3M0AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S3M1AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S3NDTR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S3PAR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S4CR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S4FCR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S4M0AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S4M1AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S4NDTR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S4PAR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S5CR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S5FCR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S5M0AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S5M1AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S5NDTR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S5PAR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S6CR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S6FCR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S6M0AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S6M1AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S6NDTR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S6PAR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S7CR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S7FCR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S7M0AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S7M1AR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S7NDTR" value="HC" />
+        <entry key="STM32F446x.svd|p:DMA2|S7PAR" value="HC" />
+        <entry key="STM32F446x.svd|p:EXTI" value="-C" />
+        <entry key="STM32F446x.svd|p:EXTI|EMR" value="HC" />
+        <entry key="STM32F446x.svd|p:EXTI|FTSR" value="HC" />
+        <entry key="STM32F446x.svd|p:EXTI|IMR" value="HC" />
+        <entry key="STM32F446x.svd|p:EXTI|PR" value="HC" />
+        <entry key="STM32F446x.svd|p:EXTI|RTSR" value="HC" />
+        <entry key="STM32F446x.svd|p:EXTI|SWIER" value="HC" />
+        <entry key="STM32F446x.svd|p:FLASH" value="-C" />
+        <entry key="STM32F446x.svd|p:FLASH|ACR" value="HC" />
+        <entry key="STM32F446x.svd|p:FLASH|CR" value="HC" />
+        <entry key="STM32F446x.svd|p:FLASH|KEYR" value="HC" />
+        <entry key="STM32F446x.svd|p:FLASH|OPTCR" value="HC" />
+        <entry key="STM32F446x.svd|p:FLASH|OPTKEYR" value="HC" />
+        <entry key="STM32F446x.svd|p:FLASH|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC" value="-C" />
+        <entry key="STM32F446x.svd|p:FMC|BCR1" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|BCR2" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|BCR3" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|BCR4" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|BTR1" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|BTR2" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|BTR3" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|BTR4" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|BWTR1" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|BWTR2" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|BWTR3" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|BWTR4" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|ECCR2" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|ECCR3" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|PATT2" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|PATT3" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|PATT4" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|PCR2" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|PCR3" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|PCR4" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|PIO4" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|PMEM2" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|PMEM3" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|PMEM4" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|SDCMR" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|SDCR1" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|SDCR2" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|SDRTR" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|SDSR" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|SDTR1" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|SDTR2" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|SR2" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|SR3" value="HC" />
+        <entry key="STM32F446x.svd|p:FMC|SR4" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOA" value="-E" />
+        <entry key="STM32F446x.svd|p:GPIOA|AFRH" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOA|AFRL" value="HE" />
+        <entry key="STM32F446x.svd|p:GPIOA|BSRR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOA|IDR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOA|LCKR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOA|MODER" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOA|ODR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOA|OSPEEDR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOA|OTYPER" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOA|PUPDR" value="HE" />
+        <entry key="STM32F446x.svd|p:GPIOB" value="-E" />
+        <entry key="STM32F446x.svd|p:GPIOB|AFRH" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOB|AFRL" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOB|BSRR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOB|IDR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOB|LCKR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOB|MODER" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOB|ODR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOB|OSPEEDR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOB|OTYPER" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOB|PUPDR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOC" value="-E" />
+        <entry key="STM32F446x.svd|p:GPIOC|AFRH" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOC|AFRL" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOC|BSRR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOC|IDR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOC|LCKR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOC|MODER" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOC|ODR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOC|OSPEEDR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOC|OTYPER" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOC|PUPDR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOD" value="-E" />
+        <entry key="STM32F446x.svd|p:GPIOD|AFRH" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOD|AFRL" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOD|BSRR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOD|IDR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOD|LCKR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOD|MODER" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOD|ODR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOD|OSPEEDR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOD|OTYPER" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOD|PUPDR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOE" value="-E" />
+        <entry key="STM32F446x.svd|p:GPIOE|AFRH" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOE|AFRL" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOE|BSRR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOE|IDR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOE|LCKR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOE|MODER" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOE|ODR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOE|OSPEEDR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOE|OTYPER" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOE|PUPDR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOF" value="-E" />
+        <entry key="STM32F446x.svd|p:GPIOF|AFRH" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOF|AFRL" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOF|BSRR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOF|IDR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOF|LCKR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOF|MODER" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOF|ODR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOF|OSPEEDR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOF|OTYPER" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOF|PUPDR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOG" value="-E" />
+        <entry key="STM32F446x.svd|p:GPIOG|AFRH" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOG|AFRL" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOG|BSRR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOG|IDR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOG|LCKR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOG|MODER" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOG|ODR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOG|OSPEEDR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOG|OTYPER" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOG|PUPDR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOH" value="-E" />
+        <entry key="STM32F446x.svd|p:GPIOH|AFRH" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOH|AFRL" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOH|BSRR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOH|IDR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOH|LCKR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOH|MODER" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOH|ODR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOH|OSPEEDR" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOH|OTYPER" value="HC" />
+        <entry key="STM32F446x.svd|p:GPIOH|PUPDR" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C1" value="-E" />
+        <entry key="STM32F446x.svd|p:I2C1|CCR" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C1|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C1|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C1|DR" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C1|FLTR" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C1|OAR1" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C1|OAR2" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C1|SR1" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C1|SR2" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C1|TRISE" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C2" value="-E" />
+        <entry key="STM32F446x.svd|p:I2C2|CCR" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C2|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C2|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C2|DR" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C2|FLTR" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C2|OAR1" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C2|OAR2" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C2|SR1" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C2|SR2" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C2|TRISE" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C3" value="-E" />
+        <entry key="STM32F446x.svd|p:I2C3|CCR" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C3|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C3|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C3|DR" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C3|FLTR" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C3|OAR1" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C3|OAR2" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C3|SR1" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C3|SR2" value="HC" />
+        <entry key="STM32F446x.svd|p:I2C3|TRISE" value="HC" />
+        <entry key="STM32F446x.svd|p:IWDG" value="-C" />
+        <entry key="STM32F446x.svd|p:IWDG|KR" value="HC" />
+        <entry key="STM32F446x.svd|p:IWDG|PR" value="HC" />
+        <entry key="STM32F446x.svd|p:IWDG|RLR" value="HC" />
+        <entry key="STM32F446x.svd|p:IWDG|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC" value="-E" />
+        <entry key="STM32F446x.svd|p:NVIC|IABR0" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IABR1" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IABR2" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|ICER0" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|ICER1" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|ICER2" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|ICPR0" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|ICPR1" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|ICPR2" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|ICTR" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IPR0" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IPR1" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IPR10" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IPR11" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IPR12" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IPR13" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IPR14" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IPR15" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IPR16" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IPR17" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IPR18" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IPR19" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IPR2" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IPR20" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IPR3" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IPR4" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IPR5" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IPR6" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IPR7" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IPR8" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|IPR9" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|ISER0" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|ISER1" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|ISER2" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|ISPR0" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|ISPR1" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|ISPR2" value="HC" />
+        <entry key="STM32F446x.svd|p:NVIC|STIR" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE" value="-E" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DIEPCTL1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DIEPCTL2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DIEPCTL3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DIEPEMPMSK" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DIEPINT0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DIEPINT1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DIEPINT2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DIEPINT3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DIEPTSIZ0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DIEPTSIZ1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DIEPTSIZ2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DIEPTSIZ3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DOEPCTL0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DOEPCTL1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DOEPCTL2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DOEPCTL3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DOEPINT0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DOEPINT1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DOEPINT2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DOEPINT3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DOEPTSIZ0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DOEPTSIZ1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DOEPTSIZ2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DOEPTSIZ3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DTXFSTS0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DTXFSTS1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DTXFSTS2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DTXFSTS3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DVBUSDIS" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|DVBUSPULSE" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|FS_DAINT" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|FS_DAINTMSK" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|FS_DCFG" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|FS_DCTL" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|FS_DIEPCTL0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|FS_DIEPMSK" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|FS_DOEPMSK" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_DEVICE|FS_DSTS" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_GLOBAL" value="-E" />
+        <entry key="STM32F446x.svd|p:OTG_FS_GLOBAL|FS_CID" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_GLOBAL|FS_DIEPTXF1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_GLOBAL|FS_DIEPTXF2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_GLOBAL|FS_DIEPTXF3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_GLOBAL|FS_GAHBCFG" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_GLOBAL|FS_GCCFG" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_GLOBAL|FS_GINTMSK" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_GLOBAL|FS_GINTSTS" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_GLOBAL|FS_GNPTXFSIZ_Device" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_GLOBAL|FS_GNPTXFSIZ_Host" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_GLOBAL|FS_GNPTXSTS" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_GLOBAL|FS_GOTGCTL" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_GLOBAL|FS_GOTGINT" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_GLOBAL|FS_GRSTCTL" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_GLOBAL|FS_GRXFSIZ" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_GLOBAL|FS_GRXSTSR_Device" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_GLOBAL|FS_GRXSTSR_Host" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_GLOBAL|FS_GUSBCFG" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_GLOBAL|FS_HPTXFSIZ" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST" value="-E" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCCHAR0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCCHAR1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCCHAR2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCCHAR3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCCHAR4" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCCHAR5" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCCHAR6" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCCHAR7" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCFG" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCINT0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCINT1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCINT2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCINT3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCINT4" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCINT5" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCINT6" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCINT7" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCINTMSK0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCINTMSK1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCINTMSK2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCINTMSK3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCINTMSK4" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCINTMSK5" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCINTMSK6" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCINTMSK7" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCTSIZ0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCTSIZ1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCTSIZ2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCTSIZ3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCTSIZ4" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCTSIZ5" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCTSIZ6" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HCTSIZ7" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HFNUM" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HPRT" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|FS_HPTXSTS" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|HAINT" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|HAINTMSK" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_HOST|HFIR" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_FS_PWRCLK" value="-E" />
+        <entry key="STM32F446x.svd|p:OTG_FS_PWRCLK|FS_PCGCCTL" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE" value="-E" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DAINT" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DAINTMSK" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DCFG" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DCTL" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DEACHINT" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DEACHINTMSK" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPCTL0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPCTL1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPCTL2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPCTL3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPCTL4" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPCTL5" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPCTL6" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPCTL7" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPDMA1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPDMA2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPDMA3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPDMA4" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPDMA5" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPEACHMSK1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPEMPMSK" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPINT0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPINT1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPINT2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPINT3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPINT4" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPINT5" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPINT6" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPINT7" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPMSK" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPTSIZ0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPTSIZ1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPTSIZ2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPTSIZ3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPTSIZ4" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DIEPTSIZ5" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DOEPCTL0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DOEPCTL1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DOEPCTL2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DOEPCTL3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DOEPEACHMSK1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DOEPINT0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DOEPINT1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DOEPINT2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DOEPINT3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DOEPINT4" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DOEPINT5" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DOEPINT6" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DOEPINT7" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DOEPMSK" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DOEPTSIZ0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DOEPTSIZ1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DOEPTSIZ2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DOEPTSIZ3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DOEPTSIZ4" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DSTS" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DTHRCTL" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DTXFSTS0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DTXFSTS1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DTXFSTS2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DTXFSTS3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DTXFSTS4" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DTXFSTS5" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DVBUSDIS" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_DEVICE|OTG_HS_DVBUSPULSE" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL" value="-E" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_CID" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_DIEPTXF1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_DIEPTXF2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_DIEPTXF3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_DIEPTXF4" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_DIEPTXF5" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_DIEPTXF6" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_DIEPTXF7" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_GAHBCFG" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_GCCFG" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_GINTMSK" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_GINTSTS" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_GNPTXFSIZ_Host" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_GNPTXSTS" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_GOTGCTL" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_GOTGINT" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_GRSTCTL" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_GRXFSIZ" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_GRXSTSP_Host" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_GRXSTSP_Peripheral" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_GRXSTSR_Host" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_GRXSTSR_Peripheral" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_GUSBCFG" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_HPTXFSIZ" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_GLOBAL|OTG_HS_TX0FSIZ_Peripheral" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST" value="-E" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HAINT" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HAINTMSK" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCCHAR0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCCHAR1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCCHAR10" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCCHAR11" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCCHAR2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCCHAR3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCCHAR4" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCCHAR5" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCCHAR6" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCCHAR7" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCCHAR8" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCCHAR9" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCDMA0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCDMA1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCDMA10" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCDMA11" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCDMA2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCDMA3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCDMA4" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCDMA5" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCDMA6" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCDMA7" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCDMA8" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCDMA9" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCFG" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINT0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINT1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINT10" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINT11" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINT2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINT3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINT4" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINT5" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINT6" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINT7" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINT8" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINT9" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINTMSK0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINTMSK1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINTMSK10" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINTMSK11" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINTMSK2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINTMSK3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINTMSK4" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINTMSK5" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINTMSK6" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINTMSK7" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINTMSK8" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCINTMSK9" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCSPLT0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCSPLT1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCSPLT10" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCSPLT11" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCSPLT2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCSPLT3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCSPLT4" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCSPLT5" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCSPLT6" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCSPLT7" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCSPLT8" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCSPLT9" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCTSIZ0" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCTSIZ1" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCTSIZ10" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCTSIZ11" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCTSIZ2" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCTSIZ3" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCTSIZ4" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCTSIZ5" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCTSIZ6" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCTSIZ7" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCTSIZ8" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HCTSIZ9" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HFIR" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HFNUM" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HPRT" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_HOST|OTG_HS_HPTXSTS" value="HC" />
+        <entry key="STM32F446x.svd|p:OTG_HS_PWRCLK" value="-E" />
+        <entry key="STM32F446x.svd|p:OTG_HS_PWRCLK|OTG_HS_PCGCR" value="HC" />
+        <entry key="STM32F446x.svd|p:PWR" value="-C" />
+        <entry key="STM32F446x.svd|p:PWR|CR" value="HC" />
+        <entry key="STM32F446x.svd|p:PWR|CSR" value="HC" />
+        <entry key="STM32F446x.svd|p:QUADSPI" value="-C" />
+        <entry key="STM32F446x.svd|p:QUADSPI|ABR" value="HC" />
+        <entry key="STM32F446x.svd|p:QUADSPI|AR" value="HC" />
+        <entry key="STM32F446x.svd|p:QUADSPI|CCR" value="HC" />
+        <entry key="STM32F446x.svd|p:QUADSPI|CR" value="HC" />
+        <entry key="STM32F446x.svd|p:QUADSPI|DCR" value="HC" />
+        <entry key="STM32F446x.svd|p:QUADSPI|DLR" value="HC" />
+        <entry key="STM32F446x.svd|p:QUADSPI|DR" value="HC" />
+        <entry key="STM32F446x.svd|p:QUADSPI|FCR" value="HC" />
+        <entry key="STM32F446x.svd|p:QUADSPI|LPTR" value="HC" />
+        <entry key="STM32F446x.svd|p:QUADSPI|PIR" value="HC" />
+        <entry key="STM32F446x.svd|p:QUADSPI|PSMAR" value="HC" />
+        <entry key="STM32F446x.svd|p:QUADSPI|PSMKR" value="HC" />
+        <entry key="STM32F446x.svd|p:QUADSPI|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:RCC" value="-E" />
+        <entry key="STM32F446x.svd|p:RCC|AHB1ENR" value="HE" />
+        <entry key="STM32F446x.svd|p:RCC|AHB1LPENR" value="HC" />
+        <entry key="STM32F446x.svd|p:RCC|AHB1RSTR" value="HE" />
+        <entry key="STM32F446x.svd|p:RCC|AHB2ENR" value="HC" />
+        <entry key="STM32F446x.svd|p:RCC|AHB2LPENR" value="HC" />
+        <entry key="STM32F446x.svd|p:RCC|AHB2RSTR" value="HC" />
+        <entry key="STM32F446x.svd|p:RCC|AHB3ENR" value="HC" />
+        <entry key="STM32F446x.svd|p:RCC|AHB3LPENR" value="HC" />
+        <entry key="STM32F446x.svd|p:RCC|AHB3RSTR" value="HC" />
+        <entry key="STM32F446x.svd|p:RCC|APB1ENR" value="HE" />
+        <entry key="STM32F446x.svd|p:RCC|APB1LPENR" value="HE" />
+        <entry key="STM32F446x.svd|p:RCC|APB1RSTR" value="HE" />
+        <entry key="STM32F446x.svd|p:RCC|APB2ENR" value="HC" />
+        <entry key="STM32F446x.svd|p:RCC|APB2LPENR" value="HC" />
+        <entry key="STM32F446x.svd|p:RCC|APB2RSTR" value="HC" />
+        <entry key="STM32F446x.svd|p:RCC|BDCR" value="HC" />
+        <entry key="STM32F446x.svd|p:RCC|CFGR" value="HE" />
+        <entry key="STM32F446x.svd|p:RCC|CIR" value="HC" />
+        <entry key="STM32F446x.svd|p:RCC|CKGATENR" value="HC" />
+        <entry key="STM32F446x.svd|p:RCC|CR" value="HC" />
+        <entry key="STM32F446x.svd|p:RCC|CSR" value="HC" />
+        <entry key="STM32F446x.svd|p:RCC|DCKCFGR" value="HC" />
+        <entry key="STM32F446x.svd|p:RCC|DCKCFGR2" value="HC" />
+        <entry key="STM32F446x.svd|p:RCC|PLLCFGR" value="HE" />
+        <entry key="STM32F446x.svd|p:RCC|PLLI2SCFGR" value="HC" />
+        <entry key="STM32F446x.svd|p:RCC|PLLSAICFGR" value="HC" />
+        <entry key="STM32F446x.svd|p:RCC|SSCGR" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC" value="-C" />
+        <entry key="STM32F446x.svd|p:RTC|ALRMAR" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|ALRMASSR" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|ALRMBR" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|ALRMBSSR" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|BKP0R" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|BKP10R" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|BKP11R" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|BKP12R" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|BKP13R" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|BKP14R" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|BKP15R" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|BKP16R" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|BKP17R" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|BKP18R" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|BKP19R" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|BKP1R" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|BKP2R" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|BKP3R" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|BKP4R" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|BKP5R" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|BKP6R" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|BKP7R" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|BKP8R" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|BKP9R" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|CALIBR" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|CALR" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|CR" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|DR" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|ISR" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|PRER" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|SHIFTR" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|SSR" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|TAFCR" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|TR" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|TSDR" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|TSSSR" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|TSTR" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|WPR" value="HC" />
+        <entry key="STM32F446x.svd|p:RTC|WUTR" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI1" value="-E" />
+        <entry key="STM32F446x.svd|p:SAI1|ACLRFR" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI1|ACR1" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI1|ACR2" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI1|ADR" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI1|AFRCR" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI1|AIM" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI1|ASLOTR" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI1|ASR" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI1|BCLRFR" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI1|BCR1" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI1|BCR2" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI1|BDR" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI1|BFRCR" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI1|BIM" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI1|BSLOTR" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI1|BSR" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI1|GCR" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI2" value="-E" />
+        <entry key="STM32F446x.svd|p:SAI2|ACLRFR" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI2|ACR1" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI2|ACR2" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI2|ADR" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI2|AFRCR" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI2|AIM" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI2|ASLOTR" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI2|ASR" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI2|BCLRFR" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI2|BCR1" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI2|BCR2" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI2|BDR" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI2|BFRCR" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI2|BIM" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI2|BSLOTR" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI2|BSR" value="HC" />
+        <entry key="STM32F446x.svd|p:SAI2|GCR" value="HC" />
+        <entry key="STM32F446x.svd|p:SDIO" value="-C" />
+        <entry key="STM32F446x.svd|p:SDIO|ARG" value="HC" />
+        <entry key="STM32F446x.svd|p:SDIO|CLKCR" value="HC" />
+        <entry key="STM32F446x.svd|p:SDIO|CMD" value="HC" />
+        <entry key="STM32F446x.svd|p:SDIO|DCOUNT" value="HC" />
+        <entry key="STM32F446x.svd|p:SDIO|DCTRL" value="HC" />
+        <entry key="STM32F446x.svd|p:SDIO|DLEN" value="HC" />
+        <entry key="STM32F446x.svd|p:SDIO|DTIMER" value="HC" />
+        <entry key="STM32F446x.svd|p:SDIO|FIFO" value="HC" />
+        <entry key="STM32F446x.svd|p:SDIO|FIFOCNT" value="HC" />
+        <entry key="STM32F446x.svd|p:SDIO|ICR" value="HC" />
+        <entry key="STM32F446x.svd|p:SDIO|MASK" value="HC" />
+        <entry key="STM32F446x.svd|p:SDIO|POWER" value="HC" />
+        <entry key="STM32F446x.svd|p:SDIO|RESP1" value="HC" />
+        <entry key="STM32F446x.svd|p:SDIO|RESP2" value="HC" />
+        <entry key="STM32F446x.svd|p:SDIO|RESP3" value="HC" />
+        <entry key="STM32F446x.svd|p:SDIO|RESP4" value="HC" />
+        <entry key="STM32F446x.svd|p:SDIO|RESPCMD" value="HC" />
+        <entry key="STM32F446x.svd|p:SDIO|STA" value="HC" />
+        <entry key="STM32F446x.svd|p:SPDIF_RX" value="-C" />
+        <entry key="STM32F446x.svd|p:SPDIF_RX|CR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPDIF_RX|CSR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPDIF_RX|DIR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPDIF_RX|DR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPDIF_RX|IFCR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPDIF_RX|IMR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPDIF_RX|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI1" value="-E" />
+        <entry key="STM32F446x.svd|p:SPI1|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI1|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI1|CRCPR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI1|DR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI1|I2SCFGR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI1|I2SPR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI1|RXCRCR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI1|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI1|TXCRCR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI2" value="-E" />
+        <entry key="STM32F446x.svd|p:SPI2|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI2|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI2|CRCPR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI2|DR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI2|I2SCFGR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI2|I2SPR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI2|RXCRCR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI2|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI2|TXCRCR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI3" value="-E" />
+        <entry key="STM32F446x.svd|p:SPI3|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI3|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI3|CRCPR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI3|DR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI3|I2SCFGR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI3|I2SPR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI3|RXCRCR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI3|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI3|TXCRCR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI4" value="-E" />
+        <entry key="STM32F446x.svd|p:SPI4|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI4|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI4|CRCPR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI4|DR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI4|I2SCFGR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI4|I2SPR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI4|RXCRCR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI4|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:SPI4|TXCRCR" value="HC" />
+        <entry key="STM32F446x.svd|p:SYSCFG" value="-C" />
+        <entry key="STM32F446x.svd|p:SYSCFG|CMPCR" value="HC" />
+        <entry key="STM32F446x.svd|p:SYSCFG|EXTICR1" value="HC" />
+        <entry key="STM32F446x.svd|p:SYSCFG|EXTICR2" value="HC" />
+        <entry key="STM32F446x.svd|p:SYSCFG|EXTICR3" value="HC" />
+        <entry key="STM32F446x.svd|p:SYSCFG|EXTICR4" value="HC" />
+        <entry key="STM32F446x.svd|p:SYSCFG|MEMRM" value="HC" />
+        <entry key="STM32F446x.svd|p:SYSCFG|PMC" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1" value="-E" />
+        <entry key="STM32F446x.svd|p:TIM10" value="-E" />
+        <entry key="STM32F446x.svd|p:TIM10|ARR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM10|CCER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM10|CCMR1_Input" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM10|CCMR1_Output" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM10|CCR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM10|CNT" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM10|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM10|DIER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM10|EGR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM10|PSC" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM10|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM11" value="-E" />
+        <entry key="STM32F446x.svd|p:TIM11|ARR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM11|CCER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM11|CCMR1_Input" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM11|CCMR1_Output" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM11|CCR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM11|CNT" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM11|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM11|DIER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM11|EGR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM11|OR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM11|PSC" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM11|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM12" value="-E" />
+        <entry key="STM32F446x.svd|p:TIM12|ARR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM12|CCER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM12|CCMR1_Input" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM12|CCMR1_Output" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM12|CCR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM12|CCR2" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM12|CNT" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM12|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM12|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM12|DIER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM12|EGR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM12|PSC" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM12|SMCR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM12|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM13" value="-E" />
+        <entry key="STM32F446x.svd|p:TIM13|ARR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM13|CCER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM13|CCMR1_Input" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM13|CCMR1_Output" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM13|CCR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM13|CNT" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM13|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM13|DIER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM13|EGR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM13|PSC" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM13|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM14" value="-E" />
+        <entry key="STM32F446x.svd|p:TIM14|ARR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM14|CCER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM14|CCMR1_Input" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM14|CCMR1_Output" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM14|CCR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM14|CNT" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM14|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM14|DIER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM14|EGR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM14|PSC" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM14|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1|ARR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1|BDTR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1|CCER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1|CCMR1_Input" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1|CCMR1_Output" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1|CCMR2_Input" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1|CCMR2_Output" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1|CCR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1|CCR2" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1|CCR3" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1|CCR4" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1|CNT" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1|DCR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1|DIER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1|DMAR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1|EGR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1|PSC" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1|RCR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1|SMCR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM1|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM2" value="-E" />
+        <entry key="STM32F446x.svd|p:TIM2|ARR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM2|CCER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM2|CCMR1_Input" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM2|CCMR1_Output" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM2|CCMR2_Input" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM2|CCMR2_Output" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM2|CCR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM2|CCR2" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM2|CCR3" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM2|CCR4" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM2|CNT" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM2|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM2|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM2|DCR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM2|DIER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM2|DMAR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM2|EGR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM2|OR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM2|PSC" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM2|SMCR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM2|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM3" value="-E" />
+        <entry key="STM32F446x.svd|p:TIM3|ARR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM3|CCER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM3|CCMR1_Input" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM3|CCMR1_Output" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM3|CCMR2_Input" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM3|CCMR2_Output" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM3|CCR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM3|CCR2" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM3|CCR3" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM3|CCR4" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM3|CNT" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM3|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM3|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM3|DCR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM3|DIER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM3|DMAR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM3|EGR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM3|PSC" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM3|SMCR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM3|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM4" value="-E" />
+        <entry key="STM32F446x.svd|p:TIM4|ARR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM4|CCER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM4|CCMR1_Input" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM4|CCMR1_Output" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM4|CCMR2_Input" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM4|CCMR2_Output" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM4|CCR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM4|CCR2" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM4|CCR3" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM4|CCR4" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM4|CNT" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM4|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM4|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM4|DCR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM4|DIER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM4|DMAR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM4|EGR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM4|PSC" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM4|SMCR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM4|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM5" value="-E" />
+        <entry key="STM32F446x.svd|p:TIM5|ARR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM5|CCER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM5|CCMR1_Input" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM5|CCMR1_Output" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM5|CCMR2_Input" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM5|CCMR2_Output" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM5|CCR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM5|CCR2" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM5|CCR3" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM5|CCR4" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM5|CNT" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM5|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM5|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM5|DCR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM5|DIER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM5|DMAR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM5|EGR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM5|OR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM5|PSC" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM5|SMCR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM5|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM6" value="-E" />
+        <entry key="STM32F446x.svd|p:TIM6|ARR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM6|CNT" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM6|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM6|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM6|DIER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM6|EGR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM6|PSC" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM6|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM7" value="-E" />
+        <entry key="STM32F446x.svd|p:TIM7|ARR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM7|CNT" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM7|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM7|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM7|DIER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM7|EGR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM7|PSC" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM7|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM8" value="-E" />
+        <entry key="STM32F446x.svd|p:TIM8|ARR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM8|BDTR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM8|CCER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM8|CCMR1_Input" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM8|CCMR1_Output" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM8|CCMR2_Input" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM8|CCMR2_Output" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM8|CCR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM8|CCR2" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM8|CCR3" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM8|CCR4" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM8|CNT" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM8|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM8|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM8|DCR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM8|DIER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM8|DMAR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM8|EGR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM8|PSC" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM8|RCR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM8|SMCR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM8|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM9" value="-E" />
+        <entry key="STM32F446x.svd|p:TIM9|ARR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM9|CCER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM9|CCMR1_Input" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM9|CCMR1_Output" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM9|CCR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM9|CCR2" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM9|CNT" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM9|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM9|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM9|DIER" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM9|EGR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM9|PSC" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM9|SMCR" value="HC" />
+        <entry key="STM32F446x.svd|p:TIM9|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:UART4" value="-E" />
+        <entry key="STM32F446x.svd|p:UART4|BRR" value="HC" />
+        <entry key="STM32F446x.svd|p:UART4|CR1" value="HE" />
+        <entry key="STM32F446x.svd|p:UART4|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:UART4|CR3" value="HC" />
+        <entry key="STM32F446x.svd|p:UART4|DR" value="HC" />
+        <entry key="STM32F446x.svd|p:UART4|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:UART5" value="-C" />
+        <entry key="STM32F446x.svd|p:UART5|BRR" value="HC" />
+        <entry key="STM32F446x.svd|p:UART5|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:UART5|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:UART5|CR3" value="HC" />
+        <entry key="STM32F446x.svd|p:UART5|DR" value="HC" />
+        <entry key="STM32F446x.svd|p:UART5|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:USART1" value="-C" />
+        <entry key="STM32F446x.svd|p:USART1|BRR" value="HC" />
+        <entry key="STM32F446x.svd|p:USART1|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:USART1|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:USART1|CR3" value="HC" />
+        <entry key="STM32F446x.svd|p:USART1|DR" value="HC" />
+        <entry key="STM32F446x.svd|p:USART1|GTPR" value="HC" />
+        <entry key="STM32F446x.svd|p:USART1|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:USART2" value="-E" />
+        <entry key="STM32F446x.svd|p:USART2|BRR" value="HC" />
+        <entry key="STM32F446x.svd|p:USART2|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:USART2|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:USART2|CR3" value="HC" />
+        <entry key="STM32F446x.svd|p:USART2|DR" value="HE" />
+        <entry key="STM32F446x.svd|p:USART2|GTPR" value="HC" />
+        <entry key="STM32F446x.svd|p:USART2|SR" value="HE" />
+        <entry key="STM32F446x.svd|p:USART3" value="-C" />
+        <entry key="STM32F446x.svd|p:USART3|BRR" value="HC" />
+        <entry key="STM32F446x.svd|p:USART3|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:USART3|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:USART3|CR3" value="HC" />
+        <entry key="STM32F446x.svd|p:USART3|DR" value="HC" />
+        <entry key="STM32F446x.svd|p:USART3|GTPR" value="HC" />
+        <entry key="STM32F446x.svd|p:USART3|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:USART6" value="-C" />
+        <entry key="STM32F446x.svd|p:USART6|BRR" value="HC" />
+        <entry key="STM32F446x.svd|p:USART6|CR1" value="HC" />
+        <entry key="STM32F446x.svd|p:USART6|CR2" value="HC" />
+        <entry key="STM32F446x.svd|p:USART6|CR3" value="HC" />
+        <entry key="STM32F446x.svd|p:USART6|DR" value="HC" />
+        <entry key="STM32F446x.svd|p:USART6|GTPR" value="HC" />
+        <entry key="STM32F446x.svd|p:USART6|SR" value="HC" />
+        <entry key="STM32F446x.svd|p:WWDG" value="-C" />
+        <entry key="STM32F446x.svd|p:WWDG|CFR" value="HC" />
+        <entry key="STM32F446x.svd|p:WWDG|CR" value="HC" />
+        <entry key="STM32F446x.svd|p:WWDG|SR" value="HC" />
+      </map>
+    </option>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1XJCUK2TXMoEDbTDnrmUrGMAQOu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ce2812_wk08_lab" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="serialMonitor.commands" value="dump 0x2001FFE0 32&#10;dump 0x2001FFE0 16&#10;dump 0x2001FFE0 8&#10;write 0x2001FFE0 0x100&#10;dump 0x2001FFE0 128&#10;dump 0x2001FFE0 256&#10;write 0x2001FFE0 0x10&#10;read 0x2001FFE0&#10;bob&#10;f" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wilkg\Documents\MSOE\2019_2020\q2_winter\ce2812_embedded_systems_2\ce2812_wk07_lab\Src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wilkg\Documents\MSOE\2019_2020\q2_winter\ce2812_embedded_systems_2\ce2812_wk07_lab\Inc" />
+      <recent name="C:\Users\wilkg\Documents\MSOE\2019_2020\q2_winter\ce2812_embedded_systems_2\ce2812_wk07_lab\Drivers\CE Dev Board Drivers\Src" />
+      <recent name="C:\Users\wilkg\Documents\MSOE\2019_2020\q2_winter\ce2812_embedded_systems_2\ce2812_wk07_lab\Drivers\CE Dev Board Drivers\Inc" />
+      <recent name="D:\MSOE\2019_2020\q2_winter\ce2812_embedded_systems_2\ce2812_wk07_lab\Inc" />
+      <recent name="D:\MSOE\2019_2020\q2_winter\ce2812_embedded_systems_2\ce2812_wk07_lab\Src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="OpenOCD Download &amp; Run.OCD ce2812_wk07_lab">
+    <configuration name="ce2812_wk07_lab.elf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ce2812_wk07_lab" TARGET_NAME="ce2812_wk07_lab.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ce2812_wk07_lab" RUN_TARGET_NAME="ce2812_wk07_lab.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.ce2812_wk07_lab.elf" />
+      <item itemvalue="OpenOCD Download &amp; Run.OCD ce2812_wk07_lab" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c690de8f-0fdb-458d-803d-e1fa8eda166d" name="Default Changelist" comment="" />
+      <created>1580754824809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580754824809</updated>
+      <workItem from="1580754826037" duration="919000" />
+      <workItem from="1580755760401" duration="4065000" />
+      <workItem from="1580761098519" duration="1980000" />
+      <workItem from="1580764464877" duration="15676000" />
+      <workItem from="1580793527759" duration="953000" />
+      <workItem from="1580797266290" duration="2020000" />
+      <workItem from="1580800338168" duration="2166000" />
+      <workItem from="1580824817781" duration="8776000" />
+      <workItem from="1580833660843" duration="1167000" />
+      <workItem from="1580834842685" duration="2228000" />
+      <workItem from="1581268434396" duration="19000" />
+      <workItem from="1581429972328" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580826477674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1580826477674" />
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580835744226">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1580835744226" />
+    <state x="648" y="167" key="FileChooserDialogImpl" timestamp="1581430002722">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="648" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581430002722" />
+    <state width="673" height="203" key="GridCell.Tab.0.bottom" timestamp="1580834830756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="673" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580834830756" />
+    <state width="673" height="203" key="GridCell.Tab.0.center" timestamp="1580834830756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="673" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580834830756" />
+    <state width="673" height="203" key="GridCell.Tab.0.left" timestamp="1580834830756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="673" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580834830756" />
+    <state width="673" height="203" key="GridCell.Tab.0.right" timestamp="1580834830756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="673" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580834830756" />
+    <state width="673" height="203" key="GridCell.Tab.1.bottom" timestamp="1580834830756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="673" height="203" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580834830756" />
+    <state width="673" height="203" key="GridCell.Tab.1.center" timestamp="1580834830756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="673" height="203" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580834830756" />
+    <state width="673" height="203" key="GridCell.Tab.1.left" timestamp="1580834830756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="673" height="203" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580834830756" />
+    <state width="673" height="203" key="GridCell.Tab.1.right" timestamp="1580834830756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="673" height="203" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580834830756" />
+    <state width="673" height="203" key="GridCell.Tab.2.bottom" timestamp="1580834830756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="673" height="203" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580834830756" />
+    <state width="673" height="203" key="GridCell.Tab.2.center" timestamp="1580834830756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="673" height="203" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1580834830756" />
+    <state width="673" height="203" key="GridCell.Tab.2.left" timestamp="1580834830756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="673" height="203" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1580834830756" />
+    <state width="673" height="203" key="GridCell.Tab.2.right" timestamp="1580834830756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="673" height="203" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1580834830756" />
+    <state x="277" y="55" width="1181" height="713" key="SettingsEditor" timestamp="1580837199309">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" width="1181" height="713" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580837199309" />
+    <state x="462" y="10" width="729" height="804" key="find.popup" timestamp="1580762233783">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="10" width="729" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1580762233783" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1580829814786">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580829814786" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="com.jetbrains.cidr.embedded.openocd.conf.type">
+        <watch expression="output_buffer" language="ObjectiveC" />
+        <watch expression="input_buffer" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

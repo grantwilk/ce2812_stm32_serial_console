@@ -1,0 +1,31 @@
+# include <stdio.h>
+# include <string.h>
+# include "delay.h"
+# include "uart_driver.h"
+
+# define SYS_CLOCK_FREQ 16000000ul
+
+int main_old(void) {
+
+    // initialize UART with 19200 baud
+    uart_init(19200, SYS_CLOCK_FREQ);
+
+    while (1) {
+
+        // print prompt
+        printf("What is your name?\n");
+        printf(">> ");
+
+        // get input
+        char input[64];
+        fgets(input, 64, stdin);
+
+        // remove newline from the end of fgets()
+        input[strcspn(input, "\n")] = '\0';
+
+        // print out response and extra padding
+        printf("Hello, %s!\n", input);
+        printf("\n");
+
+    }
+}

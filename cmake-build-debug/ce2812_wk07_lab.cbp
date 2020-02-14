@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ce2812_wk07_lab"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/dev/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/dev/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/dev/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/dev/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ce2812_wk07_lab.elf">
+				<Option output="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug/ce2812_wk07_lab.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUSE_HAL_DRIVER"/>
+					<Add option="-DSTM32F446xx"/>
+					<Add directory="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Inc"/>
+					<Add directory="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Inc"/>
+					<Add directory="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"/>
+					<Add directory="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Device/ST/STM32F4xx/Include"/>
+					<Add directory="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include"/>
+					<Add directory="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CE_Dev_Board_Drivers/Inc"/>
+					<Add directory="c:\dev\gcc-arm-compiler\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1"/>
+					<Add directory="c:\dev\gcc-arm-compiler\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/arm-none-eabi"/>
+					<Add directory="c:\dev\gcc-arm-compiler\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/backward"/>
+					<Add directory="c:\dev\gcc-arm-compiler\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/include"/>
+					<Add directory="c:\dev\gcc-arm-compiler\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/include-fixed"/>
+					<Add directory="c:\dev\gcc-arm-compiler\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/dev/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug/Makefile&quot;  VERBOSE=1 ce2812_wk07_lab.elf"/>
+					<CompileFile command="C:/dev/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/dev/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/dev/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ce2812_wk07_lab.elf/fast">
+				<Option output="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug/ce2812_wk07_lab.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUSE_HAL_DRIVER"/>
+					<Add option="-DSTM32F446xx"/>
+					<Add directory="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Inc"/>
+					<Add directory="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Inc"/>
+					<Add directory="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"/>
+					<Add directory="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Device/ST/STM32F4xx/Include"/>
+					<Add directory="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include"/>
+					<Add directory="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CE_Dev_Board_Drivers/Inc"/>
+					<Add directory="c:\dev\gcc-arm-compiler\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1"/>
+					<Add directory="c:\dev\gcc-arm-compiler\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/arm-none-eabi"/>
+					<Add directory="c:\dev\gcc-arm-compiler\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/backward"/>
+					<Add directory="c:\dev\gcc-arm-compiler\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/include"/>
+					<Add directory="c:\dev\gcc-arm-compiler\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/include-fixed"/>
+					<Add directory="c:\dev\gcc-arm-compiler\9 2019-q4-major\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/dev/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug/Makefile&quot;  VERBOSE=1 ce2812_wk07_lab.elf/fast"/>
+					<CompileFile command="C:/dev/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/dev/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/dev/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/dev/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/dev/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/dev/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/dev/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/dev/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/dev/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/dev/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/dev/mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CE_Dev_Board_Drivers/Inc/delay.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CE_Dev_Board_Drivers/Inc/uart_driver.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CE_Dev_Board_Drivers/Src/delay.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CE_Dev_Board_Drivers/Src/uart_driver.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f446xx.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include/cmsis_armcc.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include/cmsis_armclang.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include/cmsis_compiler.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include/cmsis_gcc.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include/cmsis_iccarm.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include/cmsis_version.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include/core_armv8mbl.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include/core_armv8mml.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include/core_cm0.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include/core_cm0plus.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include/core_cm1.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include/core_cm23.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include/core_cm3.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include/core_cm33.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include/core_cm4.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include/core_cm7.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include/core_sc000.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include/core_sc300.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include/mpu_armv7.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include/mpu_armv8.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/CMSIS/Include/tz_context.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/STM32F446RETx_FLASH.ld">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Src/circular_queue.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Src/main.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Src/main.c.old">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Src/mem.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Src/scanner.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Src/stm32f4xx_hal_msp.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Src/stm32f4xx_it.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Src/syscalls.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/Src/system_stm32f4xx.c">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/startup/startup_stm32f446xx.s">
+			<Option target="ce2812_wk07_lab.elf"/>
+		</Unit>
+		<Unit filename="D:/MSOE/2019_2020/q2_winter/ce2812_embedded_systems_2/ce2812_wk07_lab/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
